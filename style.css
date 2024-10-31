@@ -1,0 +1,52 @@
+body{
+    background-color: #e5c7c7;
+
+}
+.header {
+    background-color: rgba(109, 115, 38, 0.2);
+    padding: 20px;
+}
+
+h1{
+color: rgb(77, 25, 105);
+    text-align: center;
+}
+style div {
+    color: blue;
+}
+
+ul{
+    text-align: center;
+color: rgb(121, 4, 28);
+}
+
+p{
+    text-align: center;
+    color: darkslategray;
+}
+
+h2{
+ text-align: center;
+ color: rgb(5, 63, 110);
+}
+
+img{
+    display: block;
+    margin:auto
+}
+
+h3{
+    color: rgb(3, 3, 108);
+}
+
+button{
+    color: rgb(60, 45, 6);
+}
+
+a{
+    color: rgb(51, 25, 3);
+}
+
+  .bg{
+    background-color: rgb(142, 162, 186);
+  }
